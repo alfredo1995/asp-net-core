@@ -22,7 +22,7 @@ Um RESPONSE: Códigos de status de respostas do servidor HTTP: 100 = informaçao
 
 ARQUITETURA REST : Envio de dados com base em REST - Estado de representação do dado
 
-        CLIENTE -> DADOS -> HTTP -> SERVIDOR
+        CLIENTE -> DADOS -> HTTP -> SERVIDOR 
 
            1° CLIENTE = começa a transferir Dados
            2° DADOS   = vai na parte do body do verbo http, transmiti os dados atraves do protocolo htttp
