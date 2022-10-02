@@ -239,3 +239,47 @@ Para testar o post apenas alterar o verbo da aba de busca de GET para POST
 Mudar o verbo para delete
 
             dar mesma forma feito no PUT vai ser passado o id posteriomente na url 
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+-------------------------
+
+vector = a posição em um espaço
+angulo = rotacao do objeto
+
+
+1) importe o projeto Astronomy em c#
+2) criei um projeto ObeterCalculo
+2) Referenciei as depedencia do projeto ObeterCalculo com o projeto Astronomy e DemoHelp
+3) criei a class ObterCalculo 
+4) defini um namespace 
+5) criei 2 vector para retorna um angulo entre os dois vectores
+
+	5.1) public static void Main(string[] args){
+	public: isso significa que você pode chamar este método de fora da classe em que você está atualmente
+	static: ele tem que ter método estático para permitir a invocação da classe.
+	string[] args : são os argumentos do tipo String que o aplicativo C# aceita quando você executá-lo.
+
+	5.2) AstroVector a = new AstroVector(10, 10, 2, new AstroTime(10)); 
+	
+	criado o objeto AstroVector = um vecto de 3 ponto em um plano cartesiano
+	declarei a variavel "a" representando o objeto AstroVector 
+	
+	// new AstroVector(x, y, z, new Tempo) / horizantal, vertical, profundiade new TEMPO 
+	
+	
+	new = instanciando o objeto dando o mesmo nome da class AstroVector 
+	AstroVector.AngleBetween = instancia a class AstroVector.acessando a função AngleBetwen responsavel
+	por fazer o calculo do angulo entre os 2 vectores e retornar o valor do angulo
+
+	console.writeline( mostrando o resultado dessa variavle ) 
+	valores 
+
+            
