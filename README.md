@@ -18,7 +18,7 @@ Um RESPONSE: Códigos de status de respostas do servidor HTTP: 100 = informaçao
             Conceito de Response HEADER  : Passar o cockie, token 
             Conceito de Response MASSAGE : Informar a resposta q vai ser exibida ( lista de produto, pagina html e etc..)
                         
-
+ 
 
 ARQUITETURA REST : Envio de dados com base em REST - Estado de representação do dado
 
