@@ -14,7 +14,7 @@ Um REQUEST: Possui o Verbo HTTP : GET para obter, POST para inserir, PATH ou PUT
             Conceito de Request MASSAGE : É passado as informações ( Dados do produto )
                        
 Um RESPONSE: Códigos de status de respostas do servidor HTTP: 100 = informaçao 200 = ok , 300 = redirecionamente, 400 = não permitido, 500 = erro
-
+ 
             Conceito de Response HEADER  : Passar o cockie, token 
             Conceito de Response MASSAGE : Informar a resposta q vai ser exibida ( lista de produto, pagina html e etc..)
                         
