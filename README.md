@@ -39,7 +39,7 @@ Crud Básico e Rápido em ASP.NET Core usando Scafolding
 
 Criar a pasta Model > botão direito sobre o projeto ( nova pasta)
 
-            na pasta Model > criar a class FornecedorViewModel.cs
+            na pasta Model > criar a class FornecedorViewModel.cs 
             
 FornecedorViewModel.cs
 
