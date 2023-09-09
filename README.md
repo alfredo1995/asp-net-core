@@ -9,7 +9,7 @@ Protocolo HTTP: Conversar com o servidor atraves de REQUEST E RESPONSE ( Client 
 Um REQUEST: Possui o Verbo HTTP : GET para obter, POST para inserir, PATH ou PUT para atualizar e DELETE para excluir
             Precisa informar a URI : qual o endereço da internet
             Versão: 1.1  
-                         
+                          
             Conceito de Request HEADER  : É o cabeçalho da requisição (e passado a versão do broweser, cockier de autenticacao... )
             Conceito de Request MASSAGE : É passado as informações ( Dados do produto )
                        
