@@ -1,7 +1,6 @@
 # ASP.NET-Core-WebAPI / REST API
 
-CRUD rápido e básico em ASP.NET Core WebAPI
- 
+Fast and basic CRUD in ASP.NET Core WebAPI 
 
 
 Protocolo HTTP: Conversar com o servidor atraves de REQUEST E RESPONSE ( Client faz um request ao Server que retorna um response )
