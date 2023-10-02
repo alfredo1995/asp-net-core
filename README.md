@@ -3,11 +3,11 @@
 Fast and basic CRUD in ASP.NET Core WebAPI 
 
 
-Protocolo HTTP: Conversar com o servidor atraves de REQUEST E RESPONSE ( Client faz um request ao Server que retorna um response )
+HTTP Protocol: Talk to the server through REQUEST AND RESPONSE (Client makes a request to the Server which returns a response)
 
-Um REQUEST: Possui o Verbo HTTP : GET para obter, POST para inserir, PATH ou PUT para atualizar e DELETE para excluir
-            Precisa informar a URI : qual o endereço da internet
-            Versão: 1.1  
+A REQUEST: Has the HTTP Verb: GET to get, POST to insert, PATH or PUT to update and DELETE to delete
+             You need to inform the URI: what is the internet address
+             Version: 1.1
                           
             Conceito de Request HEADER  : É o cabeçalho da requisição (e passado a versão do broweser, cockier de autenticacao... )
             Conceito de Request MASSAGE : É passado as informações ( Dados do produto )
