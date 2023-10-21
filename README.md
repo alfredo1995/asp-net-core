@@ -11,7 +11,7 @@ A REQUEST: Has the HTTP Verb: GET to get, POST to insert, PATH or PUT to update 
                           
             Conceito de Request HEADER  : É o cabeçalho da requisição (e passado a versão do broweser, cockier de autenticacao... )
             Conceito de Request MASSAGE : É passado as informações ( Dados do produto )
-                       
+                        
 Um RESPONSE: Códigos de status de respostas do servidor HTTP: 100 = informaçao 200 = ok , 300 = redirecionamente, 400 = não permitido, 500 = erro
  
             Conceito de Response HEADER  : Passar o cockie, token 
